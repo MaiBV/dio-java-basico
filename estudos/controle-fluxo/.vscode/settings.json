@@ -7,8 +7,10 @@
     "cSpell.words": [
         "Aprovado",
         "insuficiente",
+        "Recuperação",
         "Reprovado",
         "Resultado",
         "Solicitado"
-    ]
+    ],
+    "java.debug.settings.onBuildFailureProceed": true
 }
