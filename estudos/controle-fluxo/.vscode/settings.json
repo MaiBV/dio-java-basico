@@ -5,7 +5,10 @@
         "lib/**/*.jar"
     ],
     "cSpell.words": [
+        "Aprovado",
         "insuficiente",
+        "Reprovado",
+        "Resultado",
         "Solicitado"
     ]
 }
